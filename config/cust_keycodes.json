@@ -1,58 +1,8 @@
 [
 	{
 		"names": [
-			"LCTRL_LALT_LGUI_LSHFT"
-		],
-		"description": "LCTRL_LALT_LGUI_LSHFT",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"LCTRL+LALT+LGUI+LSHFT"
-		],
-		"description": "LCTRL+LALT+LGUI+LSHFT",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"LCTRL+LALT+LGUI+LSHF"
-		],
-		"description": "LCTRL+LALT+LGUI+LSHF",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"(LC(LS(LA(LGUI))))"
+			"(LC(LS(LA(LGUI))))",
+			"hyper"
 		],
 		"description": "(LC(LS(LA(LGUI))))",
 		"clarify": false,
