@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LCTRL_LALT_LGUI_LSHFT"
+		],
+		"description": "LCTRL_LALT_LGUI_LSHFT",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
